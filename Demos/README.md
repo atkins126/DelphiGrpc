@@ -18,4 +18,5 @@ First start the server and then start the Android client (make sure both are usi
 Tap on the "start" button and start speaking, it will automatically stop when some silence is detected.
 
 # RealtimeMoveDemo
-See "Generator" branch.
+Shows the realtime streaming of movements from 1 client to all other clients.
+Start the server and start multiple clients, drag the logo in one client and watch the realtime update in the other clients.

@@ -17,6 +17,7 @@ The following features are implemented:
 - default up to 100 simultaneous requests over a single http/2 connection
 - only Windows (http/2) and Android (websocket) platforms are implemented and tested, Linux client works with websockets
 - Basic set of gRPC specification
+- Compiled version of an early .proto importer and code generator
 
 # Generator
   See Generator branch for .proto importer and generator
