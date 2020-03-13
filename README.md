@@ -19,6 +19,9 @@ The following features are implemented:
 - Basic set of gRPC specification
 - Compiled version of an early .proto importer and code generator
 
+# Generator
+  See Generator branch for .proto importer and generator
+
 # Missing
 - SSL support (in place but not tested yet)
 - Full gRPC specification implementation (timeout and ping handling, compression, metadata, bandwidth throttling, etc.)
